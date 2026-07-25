@@ -1,0 +1,9 @@
+.env
+cache/
+output/
+oldoutputs/
+bulk_progress.json
+*.log
+assets/fonts/*.ttf
+__pycache__/
+*.pyc
